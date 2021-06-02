@@ -1,0 +1,15 @@
+.details{
+	float: right;
+	display: inline-block;
+
+}
+.product{
+	float: left;
+	
+}
+.container{
+	display: inline-flex;
+}
+.discount{
+	color: green;
+}
